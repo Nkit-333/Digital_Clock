@@ -1,2 +1,2 @@
 # Digital_Clock
-Digital Clock implementation using javafx. 
+Digital Clock implementation using Swing. 
